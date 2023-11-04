@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <string>
-
+//Test
 //zadanie 1
 using namespace std;
 struct player {
