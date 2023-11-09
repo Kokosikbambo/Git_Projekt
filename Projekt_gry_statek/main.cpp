@@ -2,6 +2,7 @@
 #include <iostream>
 #include <string>
 
+//Sfml
 //zadanie 1
 using namespace std;
 struct player {
